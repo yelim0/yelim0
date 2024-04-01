@@ -5,7 +5,7 @@
 - 영남대학교 컴퓨터공학과 학생
 
 ## Links
-- Email-yelim7433@naver.com
+- Email - yelim7433@naver.com
 - Google
 
 ## Hobby
