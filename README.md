@@ -5,10 +5,10 @@
 - 영남대학교 컴퓨터공학과 학생
 
 ## Links
--Email - yelim7433@naver.com
--Google
+- Email-yelim7433@naver.com
+- Google
 
 ## Hobby
--reading books
--eat tasty foods
+- reading books
+- eat tasty foods
 
